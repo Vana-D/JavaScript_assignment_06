@@ -1,3 +1,9 @@
+/*
+    Project: Assignment 06: The Employee Management System 
+    Date: 10/29/23
+    Author: Van Do
+*/
+
 // GET ADD EMPLOYEE FORM AND EMPLOYEE TABLE FROM THE DOM
 const form = document.querySelector('form');
 const table = document.querySelector('table');
